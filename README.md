@@ -42,3 +42,5 @@ We are grateful for community involvement, bug reports, & feature requests. We d
 not wish to come off as anything but welcoming, however, we've
 made the decision to keep this project closed to contributions for 
 the long term viability of the project.
+
+[![Build and Deploy to ACK](https://github.com/kaoanaa/drawio-1/actions/workflows/alibabacloud.yml/badge.svg)](https://github.com/kaoanaa/drawio-1/actions/workflows/alibabacloud.yml)
